@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34aed03e-0e33-446a-87e8-060862437409" name="Changes" comment="primer commit">
+    <list default="true" id="34aed03e-0e33-446a-87e8-060862437409" name="Changes" comment="cambio nombre constante">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gildedrose/GildedRose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gildedrose/GildedRose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gildedrose/ItemBackstage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gildedrose/ItemBackstage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gildedrose/ItemConjured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gildedrose/ItemConjured.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gildedrose/ItemSulfura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gildedrose/ItemSulfura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gildedrose/ItemsAgedBrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gildedrose/ItemsAgedBrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gildedrose/ManejoItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gildedrose/GildedRoseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gildedrose/GildedRoseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +42,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.GildedRoseTest.executor": "Run",
-    "JUnit.GildedRoseTest.testAgredBrie.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/tonhy/IdeaProjects/GildedRose"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.GildedRoseTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GildedRoseTest.testAgredBrie.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tonhy/IdeaProjects/GildedRose&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.GildedRoseTest">
     <configuration name="GildedRoseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Orientacion_a_Objetos_2" />
@@ -109,11 +116,20 @@
       <option name="project" value="LOCAL" />
       <updated>1747192646007</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cambio nombre constante">
+      <option name="closed" value="true" />
+      <created>1747224764499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747224764499</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
+    <MESSAGE value="cambio nombre constante" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambio nombre constante" />
   </component>
 </project>
